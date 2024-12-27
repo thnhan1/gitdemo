@@ -1,2 +1,1 @@
-xin chao, tao file a
-hihi append to a.txt
+arch
